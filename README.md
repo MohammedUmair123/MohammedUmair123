@@ -8,7 +8,7 @@
   />
 </p>
 <p align="center" style="font-size:50px; font-weight:800;">
-  “Learn deeply today, so you can innovate confidently tomorrow.”
+ <strong>“Learn deeply today, so you can innovate confidently tomorrow.”</strong>
 </p>
 
 
