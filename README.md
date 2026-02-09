@@ -7,7 +7,7 @@
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
   />
 </p>
-<p align="center" style="font-size:24px; font-weight:500;">
+<p align="center" style="font-size:50px; font-weight:800;">
   “Learn deeply today, so you can innovate confidently tomorrow.”
 </p>
 
