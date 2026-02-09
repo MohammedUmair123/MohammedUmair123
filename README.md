@@ -9,10 +9,3 @@
 </p>
 
 <br/>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mohammedumair123&show_icons=true&locale=en"
-    alt="Mohammed Umair GitHub Stats"
-  />
-</p>
